@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m researching Computer Vision at the Harbin Institute of Technology(Shenzhen).
 
-- 🌱 I’m currently learning **Computer Vision**, **transformers**
+- 🌱 I’m currently learning **Computer Vision**, **transformers**, **diffusers**, **AIGC**, **Agent**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fanziyang-v](https://github.com/Fanziyang-v)
 
