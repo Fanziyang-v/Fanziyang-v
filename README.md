@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m researching Computer Vision at the Harbin Institute of Technology(Shenzhen).
 
+- 🔭 I’m currently working on **agentic story video visualization, efficient large multimodal models**
+
 - 🌱 I’m currently learning **Computer Vision**, **transformers**, **diffusers**, **AIGC**, **Agent**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fanziyang-v](https://github.com/Fanziyang-v)
 
-- 📫 How to reach me **bugkiller.fzy@gamil.com**
+- 📫 How to reach me **bugkiller.fzy@gamil.com, 24S151013@stu.hit.edu.cn**
 
 <h3 align="left">Recent Works</h3>
 
-
+1. **[NeurIPS 2025]** *Less Is More, but Where?* Dynamic Token Compression via LLM-Guided Keyframe Prior[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.06866)[![github](https://img.shields.io/github/stars/yu-lin-li/DyToK)](https://github.com/yu-lin-li/DyToK)![alias](https://img.shields.io/badge/DyTok-black)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
