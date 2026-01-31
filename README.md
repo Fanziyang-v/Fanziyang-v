@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Recent Works</h3>
 
-1. **[NeurIPS 2025]** *Less Is More, but Where?* Dynamic Token Compression via LLM-Guided Keyframe Prior[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.06866)[![github](https://img.shields.io/github/stars/yu-lin-li/DyToK)](https://github.com/yu-lin-li/DyToK)![alias](https://img.shields.io/badge/DyTok-black)
+1. **[ICLR 2026]** FlashVID: Efficient Video Large Language Models via Training-free Tree-based Spatiotemporal Token Merging[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([https://arxiv.org/abs/2512.06866](https://openreview.net/forum?id=H6rDX4w6Al))[![github](https://img.shields.io/github/stars/Fanziyang-v/FlashVID)](https://github.com/Fanziyang-v/FlashVID)![alias](https://img.shields.io/badge/FlashVID-black)
+2. **[NeurIPS 2025]** *Less Is More, but Where?* Dynamic Token Compression via LLM-Guided Keyframe Prior[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.06866)[![github](https://img.shields.io/github/stars/yu-lin-li/DyToK)](https://github.com/yu-lin-li/DyToK)![alias](https://img.shields.io/badge/DyTok-black)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
