@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fanziyang-v](https://github.com/Fanziyang-v)
 
-- 📫 How to reach me **bugkiller.fzy@gamil.com, 24S151013@stu.hit.edu.cn**
+- 📫 How to reach me **bugkiller.fzy@gmail.com, 24S151013@stu.hit.edu.cn**
 
 <h3 align="left">Recent Works</h3>
 
