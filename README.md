@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ziyang Fan</h1> 
 <h3 align="center">A passionate Computer Vision researcher from Harbin Institute of Technology(Shenzhen)</h3>
 
-- 🔭 I’m researching Computer Vision at the Harbin Institute of Technology(Shenzhen).
-
 - 🔭 I’m currently working on **Agentic Video Storytelling, Efficient Large Multimodal Models**
-
-- 🌱 I’m currently learning **Computer Vision**, **transformers**, **AI filmmaking**, **Agent Memory**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fanziyang-v](https://github.com/Fanziyang-v)
 
