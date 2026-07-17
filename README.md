@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ziyang Fan</h1> 
 <h3 align="center">A passionate Computer Vision researcher from Harbin Institute of Technology(Shenzhen)</h3>
 
-- 🔭 I’m currently working on **Agentic Video Storytelling, Efficient Large Multimodal Models**
+- 🔭 I’m currently working on **Efficient Large Multimodal Models, Agentic Video Generation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fanziyang-v](https://github.com/Fanziyang-v)
 
